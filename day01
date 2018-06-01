@@ -260,6 +260,7 @@ server {
 
 2）登录192.168.4.100客户端主机进行测试
 [root@client ~]# firefox https://www.c.com            //信任证书后可以访问
+liunx
 
 
 
